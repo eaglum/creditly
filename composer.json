@@ -1,6 +1,6 @@
 {
   "name": "eaglum/creditly",
-  "description": "Credit management system for Laravwel",
+  "description": "Credit management system for Laravel",
   "type": "library",
   "require": {
     "php": "^8.2",
