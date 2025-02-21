@@ -1,0 +1,23 @@
+{
+  "name": "eaglum/creditly",
+  "description": "Credit management system for Laravwel",
+  "type": "library",
+  "require": {
+    "php": "^8.2",
+    "illuminate/support": "^10|^11|^12"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Eaglum\\Creditly\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Milos Dakic",
+      "email": "milos@eaglum.com",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "dev"
+}
